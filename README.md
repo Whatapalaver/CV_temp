@@ -52,9 +52,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Pair programming
 - XP values
 
-#### BPP (2006 - 2009)
-
-- CIMA full qualification
+**BPP London** - CIMA full qualification (2006 - 2009)
 
 #### University College London (2003 - 2006)
 
@@ -62,15 +60,11 @@ A 16-week intensive development bootcamp, focusing on :
 - Thesis title: Formation of Alcohol on Interstellar Dust Grain Analogues
 - This was an experimental PhD involving serious spanner skills (of the motor mechanic variety). I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
 
-#### Open University (1996 - 2001)
-- BSc in Natural Sciences with Chemistry 
-- 1st Class Hons
+**Open University** - BSc in Natural Sciences with Chemistry 1st Class Hons (1996 - 2001)
 
-#### Sheffield University (1989 - 1993)
+**Sheffield University** - 2nd MB Medicine (1989 - 1993)
 
-- 2nd MB Medicine
-
-#### Headlands School Bridlington (- 1989)
+**Headlands School Bridlington** (- 1989)
 - A levels in Chemistry (A), Physics (B), Biology (A) and AS Maths
 
 ## Experience
