@@ -81,9 +81,9 @@ A 16-week intensive development bootcamp, focusing on :
 I live a varied life and am a collector of hobbies and interests and document almost all of them in one or more blogs.
 
 My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
-**Powerlifting** - I have computed in a number of regional competitions and qualified for the All England Championships.
-**Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim dduring snow flurries.
-**Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
+- **Powerlifting** - I have computed in a number of regional competitions and qualified for the All England Championships.
+- **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim dduring snow flurries.
+- **Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
 
 **Allotment Gardening** - I have dreams of eventually settling into the life of a geeky smallholder, for now I have to settle for a few growbags at home and a local allotment. I occasionally document this on my [earthwoman blog](http://earthwoman.co.uk)
 
