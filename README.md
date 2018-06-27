@@ -33,17 +33,47 @@ A 16-week intensive development bootcamp, focusing on :
 - Pair programming
 - XP values
 
-#### University College London (start_date to end_date)
+#### BPP (2006 - 2009)
+
+- CIMA full qualification
+
+#### University College London (2003 - 2006)
 
 - PhD Chemistry (Astrochemistry)
 - Thesis title: Formation of Alcohol on Interstellar Dust Grain Analogues
 - This was an experimental PhD involving serious spanner skills (of the motor mechanic variety). I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
 
-#### Any other qualifications
+#### Open University (1996 - 2001)
+- BSc in Natural Sciences with Chemistry 
+- 1st Class Hons
+
+#### Sheffield University (1989 - 1993)
+
+- 2nd MB Medicine
+
+#### Headlands School Bridlington (- 1989)
+- A levels in Chemistry (A), Physics (B), Biology (A) and AS Maths
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Barts Health NHS Trust** (May 2017 - June 2018)    
+*Associate Director of Finance - Income*  
+**NHS Central London CCG** (Feb 2015 - May 2017)   
+*Senior Project and Planning Accountant for the NWL Collaboration of CCGs*  
+**Croydon University Hospital** (Mar 2013 - Feb 2015)   
+*Head of Costing*  
+**NHS North Central London** (Sept 2011 - Mar 2013)   
+*Head of Finance - Acute Commissioning*  
+**NHS North Central London** (April 2011 - Sept 2011)   
+*Senior Finance Manager - Acute Commissioning* 
+**NHS North Central London** (Sept 2010 - Apr 2011)   
+*Finance Planning Manager*  
+**South West London and St Georges NHS Trust** (Sept 2009 - Sept 2010)   
+*Costing Manager*  
+**NHS Shared Business Services** (Sept 2006 - Sept 2009)   
+*Graduate Finance Trainee*  
+**Marketforce** (Sept 2002 - Sept 2003)   
+*Retail Channel Analyst* 
+**Cork International** (Apr 1998 - Sept 2002)   
+*Manager of Sales Based Ordering System* 
+
