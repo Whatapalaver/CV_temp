@@ -64,8 +64,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 **Sheffield University** - 2nd MB Medicine (1989 - 1993)
 
-**Headlands School Bridlington** (- 1989)
-- A levels in Chemistry (A), Physics (B), Biology (A) and AS Maths
+**Headlands School Bridlington** - A levels in Chemistry (A), Physics (B), Biology (A) and AS Maths (1989)
 
 ## Experience
 
