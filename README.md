@@ -89,6 +89,6 @@ My health and sporting exploits are featured on my [warriorwomen blog](http://wa
 
 **Technical Blogging** - I've been a serial blogger for many years and have a number of blogs for sharing tutorials on technical issues of for training people in specific skills.
 
-*- [NHS Excel Blog](http://nhsexcel.com) - designed to share specific excel tips and tricks for other NHS Accountants*
-*- [Excel Pivots Blog](http://excelpivots.com) - tips and tricks focussed on the marvellous pivot table*
-*- [Whatapalaver Blog](http://whatapalaver.co.uk) - assorted technical trickery explained. It's also where I have been documenting my coding journey with Makers*
+- * [NHS Excel Blog](http://nhsexcel.com) - designed to share specific excel tips and tricks for other NHS Accountants*
+- * [Excel Pivots Blog](http://excelpivots.com) - tips and tricks focussed on the marvellous pivot table*
+- * [Whatapalaver Blog](http://whatapalaver.co.uk) - assorted technical trickery explained. It's also where I have been documenting my coding journey with Makers*
