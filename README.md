@@ -1,25 +1,44 @@
 ## Dr Angela Wolff
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am currently a Full Stack Junior Developer training with Makers Academy Bootcamp in London. I am looking for roles that will enable me to build on my existing experience and knowledge and am particularly keen to find roles that focus on Social Responsibility.
+
+I am a qualified CIMA accountant and have had a number of senior finance roles within the NHS and have extensive experience in acute finance commissioning, PbR, reference costing, SLR, patient level costing and financial planning. I am technically astute analyst with a strong reputation for being delivery-focussed, efficient and delivering system improvements and process reliability. 
+
+**Tech Skills :** Ruby, tSQL, HTML, CSS, MS Excel
+
+## Projects
 
 ## Skills
 
-#### This Skill
+#### Analytical and Judgement Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Advanced Excel and data skills with a proven ability to transform vast, complex data into meaningful management reports. A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Technical Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Experience
+- Achievements
+- Evidence
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Communication
+
+Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues.
+
+#### Management
+
+Provide strong, value driven leadership. Brought the NCL Acute Finance team through three major reorganisations and ensured continuity and quality of departmental output.
+
+#### Continuous Development
+
+Improvement focused - value continuous development both individually and departmentally.
+
+- Experience
+- Achievements
+- Evidence
 
 ## Education
 
@@ -78,7 +97,8 @@ A 16-week intensive development bootcamp, focusing on :
 *Manager of Sales Based Ordering System* 
 
 ## Hobbies and Interests
-I live a varied life and am a collector of hobbies and interests and document almost all of them in one or more blogs.
+I’m a medically trained accountant with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests.
+I document almost all of these interests in one or more blogs.
 
 My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
 - **Powerlifting** - I have computed in a number of regional competitions and qualified for the All England Championships.
