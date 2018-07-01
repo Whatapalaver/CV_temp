@@ -78,7 +78,7 @@ A 16-week intensive development bootcamp, focusing on :
 *Head of Finance - Acute Commissioning*  
 **NHS North Central London** (April 2011 - Sept 2011)   
 *Senior Finance Manager - Acute Commissioning*
-**NHS North Central London** (Sept 2010 - Apr 2011)   
+**NHS North Central London** (Sept 2010 - Apr 2011)
 *Finance Planning Manager*  
 **South West London and St Georges NHS Trust** (Sept 2009 - Sept 2010)   
 *Costing Manager*  
