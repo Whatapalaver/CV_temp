@@ -95,7 +95,7 @@ I document almost all of these interests in one or more blogs.
 
 **Fitness and Health** - My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
 - **Powerlifting** - I have computed in a number of regional competitions and qualified for the All England Championships.
-- **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim dduring snow flurries.
+- **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim during snow flurries.
 - **BJJ** - This is a relatively new addition to my sporting repertoire and I'm still fairly useless but have just got a new stripe on my white belt and am adept at the rear naked choke....
 - **Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
 
