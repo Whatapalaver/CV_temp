@@ -71,27 +71,36 @@ A 16-week intensive development bootcamp, focusing on :
 **Barts Health NHS Trust** (May 2017 - June 2018)    
 *Associate Director of Finance - Income* 
 * Responsible for the reporting and billing of £1.3bn of patient treatment income
+
 **NHS Central London CCG** (Feb 2015 - May 2017)   
 *Senior Project and Planning Accountant for the NWL Collaboration of CCGs*  
 * Financial lead on large scale transformational projects across North West London, including GP Federations and Whole Systems cross-pathway costing
 * Planning lead for 5 CCG's
+
 **Croydon University Hospital** (Mar 2013 - Feb 2015)   
 *Head of Costing*
 * Led team responsible for reference cost production and patient level costing
+
 **NHS North Central London** (Sept 2011 - Mar 2013)   
 *Head of Finance - Acute Commissioning*  
 * Led team of contract finance accountants who were responsible for ensuring value for money in Acute Provider contract delivery
+
 **NHS North Central London** (April 2011 - Sept 2011)   
 *Senior Finance Manager - Acute Commissioning*
 * Led on the reporting of acute care expenditure across the North central London group of CCGs
+
 **NHS North Central London** (Sept 2010 - Apr 2011)
-*Finance Planning Manager*  
+*Finance Planning Manager*
+
 **South West London and St Georges NHS Trust** (Sept 2009 - Sept 2010)   
-*Costing Manager*  
+*Costing Manager*
+
 **NHS Shared Business Services** (Sept 2006 - Sept 2009)   
-*Graduate Finance Trainee*  
+*Graduate Finance Trainee*
+
 **Marketforce** (Sept 2002 - Sept 2003)   
-*Retail Channel Analyst* 
+*Retail Channel Analyst*
+
 **Cork International** (Apr 1998 - Sept 2002)   
 *Manager of Sales Based Ordering System* 
 
