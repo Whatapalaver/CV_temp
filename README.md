@@ -1,8 +1,10 @@
 ## Dr Angela Wolff
 
-I am currently a Full Stack Junior Developer training with Makers Academy Bootcamp in London. I am looking for roles that will enable me to build on my existing experience and knowledge and am particularly keen to find roles that focus on Social Responsibility.
+I am an energetic and values driven individual currently training with Makers a Developer Bootcamp in London. I am also a qualified CIMA accountant and have had a number of Senior Finance roles within the NHS over the last 10 years. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, PbR, reference costing, SLR, patient level costing and financial planning.
 
-I am a qualified CIMA accountant and have had a number of senior finance roles within the NHS and have extensive experience in acute finance commissioning, PbR, reference costing, SLR, patient level costing and financial planning. I am technically astute analyst with a strong reputation for being delivery-focussed, efficient and delivering system improvements and process reliability. 
+My intention is to retrain as a Developer, building on my existing strengths and expertise as a technically astute analyst with a strong reputation for being delivery-focussed and efficient, and combine this with coding knowledge to enable me to design and create software solutions.
+
+I am particularly motivated by the potential to harness software skills to improve areas of society whether that is health, fitness or social equality and I would like to ultimately secure a role where I will be doing meaningful, important work.
 
 **Tech Skills :** Ruby, tSQL, HTML, CSS, MS Excel
 
@@ -12,21 +14,25 @@ I am a qualified CIMA accountant and have had a number of senior finance roles w
 
 #### Analytical and Judgement Skills
 
-Advanced Excel and data skills with a proven ability to transform vast, complex data into meaningful management reports. A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly.
+A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly.
 
-- Experience
-- Achievements
-- Evidence
+- At North Central London CCGs I created a reporting suite that enabled HRG level drill down across all of our provider trusts using macros to automate the transformation of multi-format reports. Previously the reports has been restricted to high level values without the ability to analyse and interrogate. My system could run automatically providing instant access to patient level data
+- At North West London CCGs I produced a 5 year planning template that was used across the entire sectore. Ensuring consistency of approach within organisations and an ability to consolidate reports for upward reporting.
+- At Barts Health I produced SQL linked spreadsheets that could automate data refresh and therefore support analysis with out the risk of copy and paste errors.
 
 #### Technical Skills
 
-- Experience
-- Achievements
-- Evidence
+Advanced Excel and SQL data skills with a proven ability to transform vast, complex data into meaningful management reports.
+
+tSQL / MS Query / SSIS - writing queries and procedures to automate processes. Large scale project examples include:
+* scripting the financial reconciliation for a patient level costing project spanning multiple organisations and patient pathways (NWL Whole Systems)
+* generating the trust income plans from the bottom-up, allowing all components of change (eg. growth) to be identified and reported. Process included version control to roll back changes
+
+MS Excel / VBA - automating team processes to minimise replication of tasks and to eradicate user error. 
 
 #### Communication
 
-Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues.
+Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues. Run regular lunch and learn sessions at work to encourage debate and knowledge share. Host a number of technical blogs where I write tutorials on key analytical skills.
 
 #### Management
 
@@ -34,11 +40,7 @@ Provide strong, value driven leadership. Brought the NCL Acute Finance team thro
 
 #### Continuous Development
 
-Improvement focused - value continuous development both individually and departmentally.
-
-- Experience
-- Achievements
-- Evidence
+Improvement focused - value continuous development both individually and departmentally. 
 
 ## Education
 
@@ -60,7 +62,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Thesis title: Formation of Alcohol on Interstellar Dust Grain Analogues
 - This was an experimental PhD involving serious spanner skills (of the motor mechanic variety). I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
 
-**Open University** - BSc in Natural Sciences with Chemistry 1st Class Hons (1996 - 2001)
+**Open University** - BSc in Natural Sciences with Chemistry 1st Class Hons (1995 - 2000)
 
 **Sheffield University** - 2nd MB Medicine (1989 - 1993)
 
