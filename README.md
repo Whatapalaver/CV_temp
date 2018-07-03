@@ -39,7 +39,7 @@ MS Excel / VBA - automating team processes to minimise replication of tasks and 
 
 #### Communication
 
-Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues. Run regular lunch and learn sessions at work to encourage debate and knowledge share. Host a number of technical blogs where I write tutorials on key analytical skills.
+Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues. Run regular lunch and learn sessions at work to encourage debate and knowledge share. I host a number of [technical blogs](#technical-blogging) where I write tutorials on key analytical skills.
 
 #### Management
 
@@ -117,15 +117,18 @@ A 16-week intensive development bootcamp, focusing on :
 I’m a medically trained accountant with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests.
 I document almost all of these interests in one or more blogs.
 
-**Fitness and Health** - My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
+#### Fitness and Health 
+My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
 - **Powerlifting** - I have competed in a number of regional competitions and qualified for the All England Championships.
 - **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim during snow flurries.
 - **BJJ** - This is a relatively new addition to my sporting repertoire and I'm still fairly useless but have just got a new stripe on my white belt and am adept at the rear naked choke....
 - **Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
 
-**Allotment Gardening** - I have dreams of eventually settling into the life of a geeky smallholder, for now I have to settle for a few growbags at home and a local allotment. I occasionally document this on my [earthwoman blog](http://earthwoman.co.uk)
+#### Allotment Gardening
+I have dreams of eventually settling into the life of a geeky smallholder, for now I have to settle for a few growbags at home and a local allotment. I occasionally document this on my [earthwoman blog](http://earthwoman.co.uk)
 
-**Technical Blogging** - I've been a serial blogger for many years and have a number of blogs for sharing tutorials on technical issues of for training people in specific skills.
+#### Technical Blogging
+I've been a serial blogger for many years and have a number of blogs for sharing tutorials on technical issues of for training people in specific skills.
 
 - *[NHS Excel Blog](http://nhsexcel.com) - designed to share specific excel tips and tricks for other NHS Accountants*
 - *[Excel Pivots Blog](http://excelpivots.com) - tips and tricks focussed on the marvellous pivot table*
