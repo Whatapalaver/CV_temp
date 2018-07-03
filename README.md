@@ -12,6 +12,11 @@ I also have mutiple interest such as ice-swimming or powerlifting that occupy me
 
 ## Projects
 
+Project Name | Coment | Link |
+------------ | ------ | ---- |
+100 Days of Code | Documenting my transformation from total noob to adept coder (hopefully) | [R2 Log](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md)
+Portfolio | Early days attempt at html and css | [Portfolio](https://github.com/Whatapalaver/portfolio)
+
 ## Skills
 
 #### Analytical and Judgement Skills
