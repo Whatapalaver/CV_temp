@@ -6,6 +6,8 @@ My intention is to retrain as a Developer, building on my existing strengths and
 
 I am particularly motivated by the potential to harness software skills to improve areas of society whether that is health, fitness or social equality and I would like to ultimately secure a role where I will be doing meaningful, important work.
 
+I also have mutiple interest such as ice-swimming or powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
+
 **Tech Skills :** Ruby, tSQL, HTML, CSS, MS Excel
 
 ## Projects
@@ -111,7 +113,7 @@ I’m a medically trained accountant with a PhD in Astrochemistry but I could al
 I document almost all of these interests in one or more blogs.
 
 **Fitness and Health** - My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
-- **Powerlifting** - I have computed in a number of regional competitions and qualified for the All England Championships.
+- **Powerlifting** - I have competed in a number of regional competitions and qualified for the All England Championships.
 - **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim during snow flurries.
 - **BJJ** - This is a relatively new addition to my sporting repertoire and I'm still fairly useless but have just got a new stripe on my white belt and am adept at the rear naked choke....
 - **Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
