@@ -1,8 +1,8 @@
 ## Dr Angela Wolff
 
-I am an energetic and values driven individual currently training with Makers a Developer Bootcamp in London. I am also a qualified CIMA accountant and have had a number of Senior Finance roles within the NHS over the last 10 years. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, PbR, reference costing, SLR, patient level costing and financial planning.
+I am an energetic and values-driven individual currently training with Makers, a Developer Bootcamp in London. I am also a qualified CIMA accountant and have had a number of Senior Finance roles within the NHS over the last 10 years. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, income reporting, PbR, reference costing, SLR, patient level costing and financial planning.
 
-My intention is to retrain as a Developer, building on my existing strengths and expertise as a technically astute analyst with a strong reputation for being delivery-focussed and efficient, and combine this with coding knowledge to enable me to design and create software solutions.
+My intention is to retrain as a Developer, building on my existing strengths and expertise as a technically astute analyst with a strong reputation for being delivery-focussed and efficient, and plan to combine this with coding knowledge to enable me to design and create software solutions.
 
 I am particularly motivated by the potential to harness software skills to improve areas of society whether that is health, fitness or social equality and I would like to ultimately secure a role where I will be doing meaningful, important work.
 
